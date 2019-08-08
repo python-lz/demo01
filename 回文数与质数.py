@@ -1,3 +1,4 @@
+##
 result = []
 for a in range(1,100000):
     b = str(a)
